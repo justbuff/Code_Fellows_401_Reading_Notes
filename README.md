@@ -1,1 +1,3 @@
-# reading-notes-401
+# Table of Contents
+
+- [Class 01 Reading Notes](class-01.md)
