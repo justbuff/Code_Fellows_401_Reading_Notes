@@ -4,20 +4,15 @@ SOC 2 compliance is a framework that sends a strong signal that an organization 
 
 SOC audits are organized around five "Trust Principles":
  
-Security
-The foundational security principle, common to all audits.
+- Security: The foundational security principle, common to all audits.
 
-‍Confidentiality
-Protection from unauthorized disclosure of sensitive data.
+‍- Confidentiality: Protection from unauthorized disclosure of sensitive data.
 
-‍Availability
-Protection that systems or data will be available as agreed or required.
+‍- Availability: Protection that systems or data will be available as agreed or required.
 
-‍Integrity
-Protection that systems or data are not changed in an unauthorized manner.
+‍- Integrity: Protection that systems or data are not changed in an unauthorized manner.
 
-‍Privacy
-The use, collection, retention, disclosure, and disposal of personal information is protected.
+‍- Privacy: The use, collection, retention, disclosure, and disposal of personal information is protected.
 
 To achieve SOC 2 compliance, most companies spend anywhere from six months to a year on focused preparation. This includes identifying which systems are in scope for the audit, developing policies and procedures, and implementing new security controls to reduce risks.
 
