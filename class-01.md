@@ -16,11 +16,9 @@ SOC audits are organized around five "Trust Principles":
 
 To achieve SOC 2 compliance, most companies spend anywhere from six months to a year on focused preparation. This includes identifying which systems are in scope for the audit, developing policies and procedures, and implementing new security controls to reduce risks.
 
-SOC 2 Type I
-An audit conducted against the Trust Services Criteria standard at a single point in time.
+SOC 2 Type I: An audit conducted against the Trust Services Criteria standard at a single point in time.
 
-SOC 2 Type II
-An audit conducted against the Trust Service Criteria standard over a period of time. 
+SOC 2 Type II: An audit conducted against the Trust Service Criteria standard over a period of time. 
 
 SOC 2 compliance improves security, bolsters company culture, provides documentation, and helps with risk management.
 
