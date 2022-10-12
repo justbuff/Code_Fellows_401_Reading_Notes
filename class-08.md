@@ -30,7 +30,7 @@ DLP best practices:
 
 - Determine your primary data protection objective: determine the most appropriate DLP deployment architecture or combination of architectures. The four main DLP deployment architectures are: Endpoint DLP, Network DLP, Discovery, and Cloud.
 
-- DLP is not a security-only decision
+- DLP is not a security-only decision.
 
 - Clearly define the roles and responsibilities of the individuals involved in your organization’s DLP program.
 
