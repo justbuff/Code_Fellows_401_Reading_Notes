@@ -2,9 +2,7 @@
 
 ## Is Cybersecurity Automation the Future?
 
-Cybersecurity products designed to automate specific processes are widespread. For example, vulnerability management products can be configured to automatically detect and scan devices on an enterprise network. They can then conduct an assessment based upon a set of security controls authorized by the organization. Once the assessment is complete, identified defects can be remediated.
-
-Many organizations inspect systems and data manually for evidence of unexpected behavior and indicators of compromise or defect. Automation can address lean or ill-proportioned cybersecurity teams, as it is simply unrealistic to expect human teams to catch potential cybersecurity events reliably.
+Cybersecurity products designed to automate specific processes are widespread. For example, vulnerability management products can be configured to automatically detect and scan devices on an enterprise network. Many organizations inspect systems and data manually for evidence of unexpected behavior and indicators of compromise or defect. Automation can address lean or ill-proportioned cybersecurity teams, as it is simply unrealistic to expect human teams to catch potential cybersecurity events reliably.
 
 Benefits of automation:
 
