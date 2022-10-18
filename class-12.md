@@ -18,7 +18,7 @@ Virtual SOCs: Virtual SOcs are not on-premises and are made up of part-time or c
 
 Outsourced SOCs: In an outsourced SOC, some or all functions are managed by an external managed security service provider (MSSP) that specializes in security analysis and response
 
-## How does an SOC work?
+## How a SOC works
 
 Level 1: The first line of incident responders who watch for alerts and determine each alert’s urgency as well as when to move it up to Level 2. Level 1 personnel may also manage security tools and run regular reports.
 
