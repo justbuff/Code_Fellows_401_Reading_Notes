@@ -1,6 +1,6 @@
 # Intrusion Detection and Prevention Systems (IDS/IPS)
 
-An IDS is a visibility tool that sits off to the side of the network and monitors traffic, consisting of a management console and sensors. When the sensors encounter something that matches up to a previously detected attack signature, they report the activity to the console. An IDS can notify security personnel of infections, spyware or key loggers, as well as accidental information leakage, security policy violations, unauthorized clients and servers, and even configuration errors.
+An IDS is a visibility tool that sits off to the side of the network and monitors traffic and consists of a management console and sensors. When the sensors encounter something that matches up to a previously detected attack signature, they report the activity to the console. An IDS can notify security personnel of infections, spyware or key loggers, as well as accidental information leakage, security policy violations, unauthorized clients and servers, and even configuration errors.
 
 An IPS is similar to an IDS, except that they are able to block potential threats as well. They monitor, log and report activities, similarly to an IDS, but they are also capable of stopping threats without the system administrator getting involved.
 
