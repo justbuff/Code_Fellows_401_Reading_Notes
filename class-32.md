@@ -2,7 +2,7 @@
 
 Malware analysis is defined as “The process of dissecting malware to understand its core components and source code, investigating its characteristics, functionality, origin, and impact to mitigate the threat and prevent future occurrences.”  
 
-Let’s unpack the definition of malware analysis and its objectives: 
+Malware analysis and its objectives: 
 
 - It breaks down the malware: Understanding the code and how it works is integral to blocking malware entry or, at least, its spread across your ecosystem.
 
