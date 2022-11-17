@@ -1,0 +1,5 @@
+# What Is Threat Hunting and Why Is It so Important?
+
+Threat hunting is an active/proactive activity which is actually going in to see if any of the internal systems, not just desktops, are showing signs of being compromised. Clear indicators are created that an internal system created a command and control channel with some system out on the internet. The output of a threat hunt, meaning the results, is a compromise assessment. A successful threat hunt is where, with reasonable certainty, all of the systems are in a pristine shape, but there needs to be further investigation on these one or two that may be in a compromised state.
+
+Threat hunting is important because the processes in use today are just not working, such as log analysis which take around 6 months before the threat actors were found to be attacking the network. When you look at how often does a log analysis actually catch the bad guys on the inside, it’s only about two and a half percent, which shows the importance of active threat hunting.
