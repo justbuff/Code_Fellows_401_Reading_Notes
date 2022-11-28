@@ -44,3 +44,5 @@ Use WAF SQL Injection pre-filters
 Rate limit to prevent mass SQL Injection attempts
 
 Alert on SQL Injection pattern attempts
+
+Reference: https://www.varonis.com/blog/sql-injection-identification-and-prevention-part-1
