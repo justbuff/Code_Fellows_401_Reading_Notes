@@ -9,7 +9,7 @@ Everything has a web configuration interface backed by a database, and everythin
 
 Some prevention methods:
 
-Database
+### Database
 
 Sufficient and appropriate database user permissions set
 
@@ -23,7 +23,7 @@ Database connection filtering procedures enabled
 
 Database drivers up to date
 
-Application
+### Application
 
 Using filtering options
 
@@ -37,7 +37,7 @@ Manual check for SQL Injection prone points
 
 Application logging
 
-Web Server / Web Firewall
+### Web Server / Web Firewall
 
 Use WAF SQL Injection pre-filters
 
