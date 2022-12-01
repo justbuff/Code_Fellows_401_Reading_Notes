@@ -25,3 +25,5 @@ How to defend against Mimikatz:
 - Turn off debug privileges.
 
 - Configure additional local security authority (LSA) protection.
+
+Reference: https://www.varonis.com/blog/what-is-mimikatz
