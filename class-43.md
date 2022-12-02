@@ -1,6 +1,6 @@
 # What is a Sniffing attack?
 
-In the world of internet, sniffing can be performed using an application, hardware devices at both the network and host level. Any network packet having information in plain text can be intercepted and read by the attackers. This information can be usernames, passwords, secret codes, banking details or any information which is of value to the attacker. 
+A sniffing attack can be performed using an application or hardware devices at both the network and host level. Any network packet having information in plain text can be intercepted and read by the attackers. This information can be usernames, passwords, secret codes, banking details or any information which is of value to the attacker. 
 
 There are two types of sniffing:
 
