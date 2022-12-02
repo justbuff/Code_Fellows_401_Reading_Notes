@@ -6,7 +6,7 @@ There are two types of sniffing:
 
 Passive sniffing: This kind of sniffing occurs at a hub, where the sniffer can sit undetected and spy on the network. Since hubs are not used these days much, this kind of attack will be an old-school trick to perform. 
 
-Active sniffing: The sniffer will flood the switch with bogus requests so that the CAM table (where the destination MAC addresses are stored) gets full. Once the CAM is full the switch will act as a switch and send the network traffic to all ports and sniffed. 
+Active sniffing: The sniffer will flood the switch with bogus requests so that the CAM table (where the destination MAC addresses are stored) gets full. Once the CAM is full the switch will act as a switch and send the network traffic to all ports where it is sniffed. 
 
 Sniffing attack implementations: MAC flooding, DNS cache poisoning, Evil twin attack, and MAC spoofing.
 
