@@ -22,7 +22,7 @@
 - [Class 29 Reading Notes - Threat Modeling](class-29.md)
 - [Class 32 Reading Notes - What Is Malware Analysis?](class-32.md)
 - [Class 33 Reading Notes - What Is Threat Hunting and Why Is It So Important?](class-33.md)
-- [Class 34 Reading Notes](class-34.md)
+- [Class 34 Reading Notes - What Is Computer Forensics?](class-34.md)
 - [Class 36 Reading Notes](class-36.md)
 - [Class 37 Reading Notes](class-37.md)
 - [Class 38 Reading Notes](class-38.md)
