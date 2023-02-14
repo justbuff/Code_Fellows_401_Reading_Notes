@@ -16,7 +16,7 @@
 - [Class 17 Reading Notes - Virtual Private Cloud (VPC)](class-17.md)
 - [Class 18 Reading Notes - Introduction to AWS CloudWatch](class-18.md)
 - [Class 19 Reading Notes - AWS GuardDuty](class-19.md)
-- [Class 26 Reading Notes](class-26.md)
+- [Class 26 Reading Notes - Remote Code Execution](class-26.md)
 - [Class 27 Reading Notes](class-27.md)
 - [Class 28 Reading Notes](class-28.md)
 - [Class 29 Reading Notes](class-29.md)
