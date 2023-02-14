@@ -13,7 +13,7 @@
 - [Class 13 Reading Notes - Proxy Servers](class-13.md)
 - [Class 14 Reading Notes - Intrusion Detection and Prevention Systems (IDS/IPS)](class-14.md)
 - [Class 16 Reading Notes - Anatomy of a Cloud Breach](class-16.md)
-- [Class 17 Reading Notes](class-17.md)
+- [Class 17 Reading Notes - Virtual Private Cloud (VPC)](class-17.md)
 - [Class 18 Reading Notes](class-18.md)
 - [Class 19 Reading Notes](class-19.md)
 - [Class 26 Reading Notes](class-26.md)
