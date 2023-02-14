@@ -1,4 +1,4 @@
-# Ethical hacking: Log tampering 101
+# Ethical Hacking: Log Tampering 101
 
 Ethical hackers need to understand how hackers tamper with logs, as it is a common practice with hackers. Tampering with logs is the equivalent of covering obvious tracks that administrators use to catch hackers. 
 
