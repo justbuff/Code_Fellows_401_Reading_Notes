@@ -19,7 +19,7 @@
 - [Class 26 Reading Notes - Remote Code Execution](class-26.md)
 - [Class 27 Reading Notes - PowerShell Empire](class-27.md)
 - [Class 28 Reading Notes - Ethical Hacking: Log Tampering 101](class-28.md)
-- [Class 29 Reading Notes](class-29.md)
+- [Class 29 Reading Notes - Threat Modeling](class-29.md)
 - [Class 32 Reading Notes](class-32.md)
 - [Class 33 Reading Notes](class-33.md)
 - [Class 34 Reading Notes](class-34.md)
