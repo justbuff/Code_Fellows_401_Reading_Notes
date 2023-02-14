@@ -1,4 +1,4 @@
-# Amazon GuardDuty
+# AWS GuardDuty
 
 Amazon GuardDuty (located at https://console.aws.amazon.com/guardduty) is a continuous security monitoring service that analyzes and processes data sources, such as AWS CloudTrail data events for Amazon S3 logs, CloudTrail management event logs, DNS logs, Amazon EBS volume data, Kubernetes audit logs, and Amazon VPC flow logs. 
 
