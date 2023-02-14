@@ -1,4 +1,4 @@
-# What is Metasploit?
+# What Is Metasploit?
 
 First released in 2003, Metasploit is a penetration testing framework used by attackers and defenders. During the information gathering phase of a pentest, Metasploit integrates seamlessly with Nmap, SNMP scanning and Windows patch enumeration, among others. Once a target's weakness is identified, Metasploit offers a large and extensible database of exploits and payloads to pair together.
 
