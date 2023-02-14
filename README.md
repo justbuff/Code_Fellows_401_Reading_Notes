@@ -4,7 +4,7 @@
 - [Class 02 Reading Notes - AWS Cloud Security Principles and Frameworks](class-02.md)
 - [Class 03 Reading Notes - Cyber Risk Analysis](class-03.md)
 - [Class 04 Reading Notes - Systems Hardening with CIS Standards](class-04.md)
-- [Class 06 Reading Notes](class-06.md)
+- [Class 06 Reading Notes - Data File Encryption](class-06.md)
 - [Class 07 Reading Notes](class-07.md)
 - [Class 08 Reading Notes](class-08.md)
 - [Class 09 Reading Notes](class-09.md)
