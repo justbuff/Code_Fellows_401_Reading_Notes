@@ -20,7 +20,7 @@
 - [Class 27 Reading Notes - PowerShell Empire](class-27.md)
 - [Class 28 Reading Notes - Ethical Hacking: Log Tampering 101](class-28.md)
 - [Class 29 Reading Notes - Threat Modeling](class-29.md)
-- [Class 32 Reading Notes](class-32.md)
+- [Class 32 Reading Notes - What Is Malware Analysis?](class-32.md)
 - [Class 33 Reading Notes](class-33.md)
 - [Class 34 Reading Notes](class-34.md)
 - [Class 36 Reading Notes](class-36.md)
