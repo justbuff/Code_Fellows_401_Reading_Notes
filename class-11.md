@@ -1,4 +1,4 @@
-# Setting Up Splunk SIEM
+# Setting Up SIEM
 
 ## Is Cybersecurity Automation the Future?
 
