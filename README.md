@@ -12,7 +12,7 @@
 - [Class 12 Reading Notes - What is a SOC?](class-12.md)
 - [Class 13 Reading Notes - Proxy Servers](class-13.md)
 - [Class 14 Reading Notes - Intrusion Detection and Prevention Systems (IDS/IPS)](class-14.md)
-- [Class 16 Reading Notes](class-16.md)
+- [Class 16 Reading Notes - Anatomy of a Cloud Breach](class-16.md)
 - [Class 17 Reading Notes](class-17.md)
 - [Class 18 Reading Notes](class-18.md)
 - [Class 19 Reading Notes](class-19.md)
