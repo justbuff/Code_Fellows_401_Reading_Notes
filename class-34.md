@@ -1,4 +1,4 @@
-# What is computer forensics?
+# What Is Computer Forensics?
 
 Computer forensic specialists investigate security issues, data breaches, and other cyber crimes. These experts recover documents, photos, emails, and other files from computer systems, hard drives, and other devices. They often work on “cyber crime” and digital cases and examine computer systems to help find digital evidence of illegal activity. 
 
