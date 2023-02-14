@@ -1,4 +1,4 @@
-# Understanding SQL Injection, Identification and Prevention
+# Understanding SQL Injection: Identification and Prevention
 
 Standardized query language (SQL) is still the dominant method of inserting, filtering and retrieving information from a database. It’s not usually regarded this way, but SQL is a full programming language unto itself. With some basic SQL knowledge and an internet connection, an attacker can exploit flaws in a web application – extracting user data, discovering or resetting credentials and using it as a launch point for deeper assaults on the network.
 
