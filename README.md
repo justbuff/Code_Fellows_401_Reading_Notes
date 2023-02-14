@@ -25,7 +25,7 @@
 - [Class 34 Reading Notes - What Is Computer Forensics?](class-34.md)
 - [Class 36 Reading Notes - Cross-Site Scripting](class-36.md)
 - [Class 37 Reading Notes - Automated AppSec with ZAP](class-37.md)
-- [Class 38 Reading Notes](class-38.md)
+- [Class 38 Reading Notes - What Is Burp Suite?](class-38.md)
 - [Class 39 Reading Notes](class-39.md)
 - [Class 41 Reading Notes](class-41.md)
 - [Class 42 Reading Notes](class-42.md)
