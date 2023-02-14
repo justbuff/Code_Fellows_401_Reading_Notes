@@ -9,7 +9,7 @@
 - [Class 08 Reading Notes - Data Loss Prevention and Data Classification](class-08.md)
 - [Class 09 Reading Notes - Public Key infrasctructure (PKI)](class-09.md)
 - [Class 11 Reading Notes - Setting Up SIEM](class-11.md)
-- [Class 12 Reading Notes](class-12.md)
+- [Class 12 Reading Notes - What is a SOC?](class-12.md)
 - [Class 13 Reading Notes](class-13.md)
 - [Class 14 Reading Notes](class-14.md)
 - [Class 16 Reading Notes](class-16.md)
