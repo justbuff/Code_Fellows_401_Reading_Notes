@@ -21,7 +21,7 @@
 - [Class 28 Reading Notes - Ethical Hacking: Log Tampering 101](class-28.md)
 - [Class 29 Reading Notes - Threat Modeling](class-29.md)
 - [Class 32 Reading Notes - What Is Malware Analysis?](class-32.md)
-- [Class 33 Reading Notes](class-33.md)
+- [Class 33 Reading Notes - What Is Threat Hunting and Why Is It So Important?](class-33.md)
 - [Class 34 Reading Notes](class-34.md)
 - [Class 36 Reading Notes](class-36.md)
 - [Class 37 Reading Notes](class-37.md)
