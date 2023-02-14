@@ -1,4 +1,4 @@
-# What is Mimikatz?
+# What Is Mimikatz?
 
 Mimikatz is an open-source application that allows users to view and save authentication credentials such as Kerberos tickets. Attackers commonly use Mimikatz to steal credentials and escalate privileges because in most cases, endpoint protection software and antivirus systems will not detect or delete the attack.
 
