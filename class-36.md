@@ -1,4 +1,4 @@
-# Cross-site scripting
+# Cross-Site Scripting
 
 Cross-site scripting (also known as XSS) is a web security vulnerability that allows an attacker to compromise the interactions that users have with a vulnerable application. XSS lets an attacker circumvent the same origin policy, which is designed to segregate different websites from each other. XSS works by manipulating a vulnerable web site so that it returns malicious JavaScript to users, which the attacker can use to fully compromise their interaction with the application.
 
