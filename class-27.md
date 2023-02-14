@@ -1,4 +1,4 @@
-# PowerShell Empire Framework Is No Longer Maintained
+# PowerShell Empire
 
 The PowerShell Empire post-exploitation framework used by hackers of all hats has been discontinued, mostly due to the security optics and improvements that have been provided by Microsoft in the past few years. Its open-source nature and modular architecture allowed it to grow and fulfill the needs of offensive security teams, who saw in it an opportunity to test defenses by imitating attacks from real threat actors.
 
