@@ -1,4 +1,4 @@
-# Anatomy of a Cloud Breach: How 100 Million Credit Card Numbers Were Exposed
+# Anatomy of a Cloud Breach
 
 On July 29, 2019, the FBI arrested Paige Thompson (also known by the alias “erratic” and a former AWS engineer) for allegedly hacking into Capital One databases and stealing the data located on AWS cloud servers. Capital One disclosed that the event affected approximately 100 million individuals in the United States and approximately 6 million in Canada. It also included data loss of approximately 1 million Social Insurance Numbers of Canadian credit card customers, about 140,000 Social Security numbers, and 80,000 linked bank account numbers of the credit card customers.
 
