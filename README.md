@@ -27,7 +27,7 @@
 - [Class 37 Reading Notes - Automated AppSec with ZAP](class-37.md)
 - [Class 38 Reading Notes - What Is Burp Suite?](class-38.md)
 - [Class 39 Reading Notes - Understanding SQL Injection: Identification and Prevention](class-39.md)
-- [Class 41 Reading Notes](class-41.md)
+- [Class 41 Reading Notes - Penetration Testing](class-41.md)
 - [Class 42 Reading Notes](class-42.md)
 - [Class 43 Reading Notes](class-43.md)
 - [Class 44 Reading Notes](class-44.md)
