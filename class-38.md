@@ -1,4 +1,4 @@
-# What is Burp Suite?
+# What Is Burp Suite?
 
 Burp Suite is a suite of tools from PortSwigger designed to aid in the penetration testing of web applications over both HTTP and HTTPS. The primary tool is a proxy designed to allow the analysis and editing of web traffic and can intercept web requests and responses and read and edit them in real-time before they reach their respective destinations.
 
